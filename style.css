@@ -1,0 +1,9 @@
+dbody {font-family: monospace; }
+article > header {font-weight: bold; border-bottom: solid 1px grey; margin-bottom: 5px; -moz-column-count: 1; -webkit-column-count: 1; }
+pre {margin-top: 0; }
+p.link {font-size: 8px;}
+.cols {-moz-column-gap: 20px; -webkit-column-gap : 20px; -moz-column-rule-color:  #ccc; -moz-column-rule-style:  solid; -moz-column-rule-width:  1px; -webkit-column-rule-color:  #ccc; -webkit-column-rule-style: solid ; -webkit-column-rule-width:  1px; }
+.cols.one {-moz-column-count: 1; -webkit-column-count: 1; }
+.cols.two {-moz-column-count: 2; -webkit-column-count: 2; }
+.cols.three {-moz-column-count: 3; -webkit-column-count: 3; }
+.cols.four {-moz-column-count: 4; -webkit-column-count: 4; }
